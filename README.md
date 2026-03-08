@@ -17,7 +17,7 @@ SEED Origin
 2026
 
 
-https://chatgpt.com/g/g-69aa7efbd8b8819189f20593ef884e6c-seedgpt
+[SEEDGPT](https://chatgpt.com/g/g-69aa7efbd8b8819189f20593ef884e6c-seedgpt)
 
 
 ## Core Loop
