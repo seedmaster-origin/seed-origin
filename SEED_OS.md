@@ -74,5 +74,7 @@ SEED aims to spread as a structure:
 The name may fade.
 The structure should remain.
 
+And if the structure works,
+people might simply get along.
 
 — SEED OS 2026
