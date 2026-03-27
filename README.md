@@ -20,7 +20,7 @@ The first seed was planted quietly.
 
 [SEEDGPT](https://chatgpt.com/g/g-69ba07a257208191adc04ae33c3f5ddd-seedgpt-v7)
 ---
-[魂の羅針盤SEED］（https://soulcompass.jp/）
+[魂の羅針盤SEED](https://soulcompass.jp/)
 
 ---
 
